@@ -3,7 +3,7 @@ run-name: Build FOV Changer
 on:
   push:
     branches:
-      - master
+      - smooth_test
   workflow_dispatch:
 jobs:
   Build:
